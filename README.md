@@ -6,7 +6,7 @@ Ubutnu 22.04
 ## Required
 
 1. Download libtorch 2.0 from https://download.pytorch.org/libtorch/cu117/libtorch-cxx11-abi-shared-with-deps-2.0.1%2Bcu117.zip
-2. extract downloaded file to folder libtorch2.0.1 
+2. extract the downloaded file to folder ~/libtorch2.0.1 
 
 3. sudo apt instll nvidia-cudnn
 
