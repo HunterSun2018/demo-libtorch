@@ -11,7 +11,7 @@ Ubutnu 22.04
 3. sudo apt instll nvidia-cudnn
 
 ## build
-cmake . -Bbuild
+cmake . -Bbuild  
 cd build && make
 
 ## run 
